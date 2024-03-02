@@ -3,4 +3,4 @@ firebase_admin
 httpx-oauth
 stripe
 openai
-speech_recognition
+SpeechRecognition
