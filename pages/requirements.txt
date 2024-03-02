@@ -1,7 +1,0 @@
-streamlit
-firebase_admin
-httpx-oauth
-stripe
-urllib
-openai
-speech_recognition
